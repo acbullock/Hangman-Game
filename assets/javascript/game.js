@@ -36,7 +36,7 @@ var game = {
 				result.push("_");
 			}
 			else
-				result.push("&nbsp;")
+				result.push("&nbsp;&nbsp;&nbsp;")
 		}
 
 		return result;
